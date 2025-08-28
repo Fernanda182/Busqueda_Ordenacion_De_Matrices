@@ -1,6 +1,6 @@
 # Búsqueda y Ordenación en Arreglos Multidimensionales (Matrices 3x3)
 
-Este repositorio contiene dos programas en **Java** desarrollados en **NetBeans IDE** como parte de la práctica de búsqueda y ordenación en arreglos bidimensionales.
+Este repositorio contiene dos programas en **Java** desarrollados en **NetBeans** como parte de la práctica de búsqueda y ordenación en arreglos bidimensionales.
 
 
 ## Programas incluidos
